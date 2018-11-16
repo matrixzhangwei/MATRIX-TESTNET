@@ -1,12 +1,3 @@
-//1542342681.6140587
-//1542342670.5408115
-//1542342659.1451914
-//1542342648.053515
-//1542342637.0061004
-//1542342625.4440877
-//1542342614.4023607
-//1542342603.178963
-//1542342591.8067367
 // Copyright 2018 The MATRIX Authors as well as Copyright 2014-2017 The go-matrix Authors
 // This file is consisted of the MATRIX library and part of the go-ethereum library.
 //
